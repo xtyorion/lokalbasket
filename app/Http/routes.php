@@ -5,6 +5,5 @@
 
 Route::group(array('domain' => 'admin.lokalbasket.dev'), function()
 {
-Route::get();
-
+Route::get(okuababye);
 });
